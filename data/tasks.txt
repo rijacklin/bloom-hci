@@ -1,0 +1,26 @@
+[DEPLOY]
+TITLE:Add login feature
+ASSIGNED:Michael
+DESC:We need to add a log in feature to the DEPLOY project.
+---
+TITLE:Update login form design
+ASSIGNED:Richard
+DESC:Use the new layout from the design team (attached) to update the login form.
+---
+TITLE:New task
+ASSIGNED:Richard
+DESC:This is a new task.
+---
+TITLE:Create password field design
+ASSIGNED:Sally
+DESC:Create new design for password fields in DEPLOY
+---
+TITLE:Test
+ASSIGNED:Michael
+DESC:Task description
+---
+
+[FLOW]
+
+[BLOOM]
+

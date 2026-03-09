@@ -1,0 +1,18 @@
+[USER]
+TITLE:Task Update: 'Update login form design'
+READ:false
+TEXT:Task 'Update login form design' has been updated. Click to view the task.
+TASKINDEX:1
+PROJECT:DEPLOY
+---
+TITLE:New Assignment: 'New Task'
+READ:false
+TEXT:You have been assigned to task 'New task'. Click to view the task.
+TASKINDEX:2
+PROJECT:DEPLOY
+---
+
+[FLOW]
+
+[BLOOM]
+

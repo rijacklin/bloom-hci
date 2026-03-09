@@ -1,0 +1,18 @@
+[DEPLOY]
+TITLE:Update login form design
+ASSIGNED:Richard
+STORYPTS:5
+---
+TITLE:Create password field design
+ASSIGNED:Anna
+STORYPTS:3
+---
+TITLE:New sprint task
+ASSIGNED:Sally
+STORYPTS:1
+---
+
+[FLOW]
+
+[BLOOM]
+

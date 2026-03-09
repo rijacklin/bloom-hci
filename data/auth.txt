@@ -1,0 +1,8 @@
+USERNAME:admin
+PASSWORD:pass
+TEMPPW:true
+---
+USERNAME:richard
+PASSWORD:1234
+TEMPPW:true
+---
